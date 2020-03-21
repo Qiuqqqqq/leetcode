@@ -8,4 +8,5 @@
 /.idea/
 !/.gitignore
 /logs/
+.mvn/
 
